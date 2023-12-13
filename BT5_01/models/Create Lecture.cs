@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BT5_01.models
 {
-    internal class Lecture
+    internal class Create_Lecture
     {
     }
 }
