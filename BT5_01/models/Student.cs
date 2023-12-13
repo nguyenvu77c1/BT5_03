@@ -8,6 +8,6 @@ namespace BT5_01.models
 {
     internal class Student
     {
-        public int MSSV { get; set; }
+        public int ID { get; set; }
     }
 }
